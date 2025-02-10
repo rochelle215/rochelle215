@@ -1,0 +1,28 @@
+body{
+    background: url("color.jpg")
+    
+}
+
+
+h1 {
+ color: rgba(245, 5, 165);
+}
+
+.test1 {
+    border: 1px dashed #03f717;
+    margin: 32px;
+    padding: 16px;
+    
+}
+
+button{
+    background: #049b0c;
+    border: 1px solid transparent;
+    border-radius: 2px;
+
+}
+
+
+
+
+
